@@ -10,3 +10,4 @@ __pycache__/
 *.env
 *.env.*
 uv.lock
+langgraph/server
